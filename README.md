@@ -1,4 +1,4 @@
 # DEMO
 FIRST ONE
 <br>
-AUTHOR - PIyush Singla
+AUTHOR - Piyush Singla
